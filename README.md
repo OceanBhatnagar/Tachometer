@@ -2,7 +2,7 @@
 
 Welcome to the ESP32-Based Tachometer project repository!
 This project involves building a tachometer system to measure the RPM of a motor wheel using an IR sensor that detects a white strip on the wheel.
-The ESP32 microcontroller processes the data and displays the RPM on a 16x2 I2C LCD screen.
+The ESP32 microcontroller processes the data and displays the RPM on a 16x2 I2C LCD screen. It was developed as part of the (Team i5 – IoT and Embedded Systems) Intel OneAPI Student Club at USAR, GGSIPU.
 
 ## Components Used
 - **ESP32 Microcontroller**
